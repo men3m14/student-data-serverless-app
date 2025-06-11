@@ -23,5 +23,5 @@ A fully serverless web application built on AWS to store and retrieve student da
 
 ---
 
-## 📂 Project Structure
+
 
