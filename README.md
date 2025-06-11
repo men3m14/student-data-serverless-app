@@ -12,7 +12,8 @@ A fully serverless web application built on AWS to store and retrieve student da
 
 ## 🚀 Architecture Overview
 
-![Architecture Diagram](architecture.png) <!-- Replace with real file -->
+![Architecture Diagram]![image](https://github.com/user-attachments/assets/bb6caa59-f624-4e04-8791-00514649a435)
+
 
 **User Flow:**
 
